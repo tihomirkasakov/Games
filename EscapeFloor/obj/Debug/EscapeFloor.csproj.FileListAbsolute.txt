@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\EscapeFloor\bin\Debug\EscapeFloor.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\EscapeFloor\bin\Debug\EscapeFloor.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\EscapeFloor\bin\Debug\EscapeFloor.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\EscapeFloor\obj\Debug\EscapeFloor.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\EscapeFloor\obj\Debug\EscapeFloor.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\EscapeFloor\obj\Debug\EscapeFloor.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\EscapeFloor\obj\Debug\EscapeFloor.pdb

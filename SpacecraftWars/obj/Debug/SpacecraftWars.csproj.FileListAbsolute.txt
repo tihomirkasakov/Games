@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\SpacecraftWars\bin\Debug\SpacecraftWars.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\SpacecraftWars\bin\Debug\SpacecraftWars.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\SpacecraftWars\bin\Debug\SpacecraftWars.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\SpacecraftWars\obj\Debug\SpacecraftWars.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\SpacecraftWars\obj\Debug\SpacecraftWars.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\SpacecraftWars\obj\Debug\SpacecraftWars.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\ExamPreparation\SpacecraftWars\obj\Debug\SpacecraftWars.pdb
